@@ -54,11 +54,11 @@ A partir dessa análise, podemos concluir que, ao longo de todos os anos analisa
 
 ![image](https://github.com/user-attachments/assets/0a4e826a-8951-4c1a-9491-a18fb3f18c0f)
 
-* **Gráfico de Pizza - Fatalidades ao Longo do Dia - Número de Fatalidades ao Longo do Dia (Plotly) 
+* **Gráfico de Pizza - Fatalidades ao Longo do Dia - Número de Fatalidades ao Longo do Dia (Plotly):**  Este gráfico mostra durante o dia as fatalidades que ocorrem.
 
 ![image](https://github.com/user-attachments/assets/0c92f0a0-0256-4643-bd19-b56c26f4227a)
 
-* **Gráfico de Barras Vertical - Número de Fatalidades (Causas de Acidentes) (Plotly)
+* **Gráfico de Barras Vertical - Número de Fatalidades (Causas de Acidentes) (Plotly):** Este gráfico mostra algumas causas dos acidentes, a velocidade é a maior culpada.
 
 ![image](https://github.com/user-attachments/assets/0cae35f5-cf06-45bf-af1d-b9b589a980ff)
 
