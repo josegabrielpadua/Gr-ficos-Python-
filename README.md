@@ -4,7 +4,9 @@ Este projeto analisa um conjunto de dados de acidentes rodoviários para identif
 
 ## Conjunto de Dados
 
-O projeto utiliza o conjunto de dados "road_accident_dataset.csv", que contém informações sobre acidentes rodoviários em diferentes países e ao longo dos anos. As informações incluem data e hora do acidente, condições climáticas, tipo de estrada, número de veículos envolvidos, número de feridos e fatalidades, entre outros.
+O projeto utiliza o conjunto de dados "road_accident_dataset.csv", que contém informações sobre acidentes rodoviários em diferentes países e ao longo dos anos. As informações incluem data e hora do acidente, condições climáticas, tipo de estrada, número de veículos envolvidos, número de feridos e fatalidades, entre outros. 
+
+[Dados](https://www.kaggle.com/datasets/ankushpanday1/global-road-accidents-dataset?resource=download)
 
 ![image](https://github.com/user-attachments/assets/e5dd6ac4-751d-47aa-b960-161eb172025f)
 
